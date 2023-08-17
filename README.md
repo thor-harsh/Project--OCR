@@ -5,6 +5,6 @@ This is a regular paragraph.
 <table>
     **OCR**
 </table>
-http://images.google.com/images?num=30&q=larry+bird
+<img src="images/ocr.png">
 
 This is another regular paragraph.
