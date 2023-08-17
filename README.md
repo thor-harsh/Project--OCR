@@ -3,7 +3,7 @@
 This is a regular paragraph.
 
 <table>
-    **OCR**
+    ** OCR **
 </table>
 <img src="Images/ocr.png">
 
